@@ -1,5 +1,5 @@
 ## Hello! I'm Katelyn 👋
-![screenshot]("C:\katelynlai\profile.jpg")
+![Katelyn's Profile](./profile.jpg)
 
 ### About Me
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
