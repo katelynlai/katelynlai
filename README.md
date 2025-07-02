@@ -1,8 +1,12 @@
 ## Hello! I'm Katelyn 👋
-<img src="./profile.jpg" alt="Katelyn's Profile" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 
-### About Me
-I'm a passionate developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="./profile.jpg" alt="Katelyn's Profile" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+  <div>
+    <h3>About Me</h3>
+    <p>I'm a passionate developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile!</p>
+  </div>
+</div>
 
 ### 🔧 Technologies & Tools
 - **Languages:** Python, JavaScript, .NET
