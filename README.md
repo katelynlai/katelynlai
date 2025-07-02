@@ -1,5 +1,5 @@
 ## Hello! I'm Katelyn 👋
-![screenshot]("\katelynlai\profile.jpg")
+![screenshot]("C:\katelynlai\profile.jpg")
 
 ### About Me
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
@@ -16,11 +16,10 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ### 🚀 Featured Projects
 - **Dissertation**: Automated Manual Super/Moderator Allocation System
-- **Project 2**: Another cool project you've worked on
-- **Project 3**: Maybe a collaboration or open source contribution
+- **EcoTracker**: Environmental impact tracking application
 
 ### 📫 How to Reach Me
-- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/katelyn-lai1)
+- 💼 LinkedIn: [www.linkedin.com/in/katelyn-lai1]
 
 ### ⚡ Fun Facts
 - 🧁 I love baking 
