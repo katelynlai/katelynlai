@@ -15,7 +15,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ![Katelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=katelynlai&show_icons=true&theme=radical)
 
 ### 📈 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katelynlai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katelynlai&layout=compact&theme=radical)](https://github.com/katelynlai/github-readme-stats)
 
 ### 🚀 Featured Projects
 - **Dissertation**: Automated Manual Super/Moderator Allocation System
