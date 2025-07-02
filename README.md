@@ -1,5 +1,5 @@
 ## Hello! I'm Katelyn 👋
-<img src="./profile.jpg" alt="Katelyn's Profile" width="150" height="150" style="border-radius: 50%;">
+<img src="./profile.jpg" alt="Katelyn's Profile" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 
 ### About Me
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
