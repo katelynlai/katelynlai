@@ -1,6 +1,4 @@
 ## Hello! I'm Katelyn 👋
-<img src="./profile.jpg" alt="Katelyn's Profile" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-
 ### About Me
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
 
@@ -15,7 +13,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ![Katelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=katelynlai&show_icons=true&theme=radical)
 
 ### 📈 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katelynlai&layout=compact&theme=radical)](https://github.com/katelynlai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katelynlai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Featured Projects
 - **Dissertation**: Automated Manual Super/Moderator Allocation System
