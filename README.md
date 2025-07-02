@@ -16,7 +16,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katelynlai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Featured Projects
-- **Dissertation**: Automated Manual Super/Moderator Allocation System
+- **Dissertation**: Automated Manual Supervisor/Moderator Allocation System
 - **EcoTracker**: Environmental impact tracking application
 
 ### 📫 How to Reach Me
